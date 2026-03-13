@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Goli Krishna Prasad Reddy 👋
 
-<!--
-**Prasadreddy17/Prasadreddy17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final Year B.Tech Student in Artificial Intelligence and Data Science
 
-Here are some ideas to get you started:
+Skills
+Python | SQL | Machine Learning | OpenCV | NumPy | Pandas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+Emotion Based Music Recommendation System
+Face Recognition Based Attendance System
+
+Contact
+Email: golikrishnaprasadreddy@gmail.com
+LinkedIn: www.linkedin.com/in/krishna-prasad-reddy-goli-57a070341
