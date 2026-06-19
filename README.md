@@ -7,9 +7,8 @@ Python | SQL | Machine Learning | OpenCV | NumPy | Pandas | Excel | Power BI |
 
 Projects
 Emotion Based Music Recommendation System
-Face Recognition Based Attendance System
-Sales Analysis Project
+Customer Sales Analysis Project
 
 Contact
 Email: golikrishnaprasadreddy@gmail.com
-LinkedIn: www.linkedin.com/in/krishna-prasad-reddy-goli-57a070341
+LinkedIn: www.linkedin.com/in/krishna-prasad-reddy-goli
