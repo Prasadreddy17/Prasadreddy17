@@ -28,6 +28,14 @@ Built an AI-powered system that detects user emotions in real-time using compute
 
 ---
 
+## 🏆 Certifications
+
+- **Deloitte Australia - Data Analytics Job Simulation** (Forage, June 2026)
+  Completed practical tasks in data analysis and forensic technology, including building interactive Tableau dashboards with calculated fields and dashboard filter actions.
+
+---
+
+
 ## 📬 Let's Connect
 
 📧 Email: [golikrishnaprasadreddy@gmail.com](mailto:golikrishnaprasadreddy@gmail.com)
