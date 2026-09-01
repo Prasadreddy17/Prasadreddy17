@@ -17,7 +17,6 @@ Analyzed 4,500+ global tech layoff records (2020-2026) using Python, SQL, and Po
 ### [Emotion-Based Music Recommendation System](https://github.com/Prasadreddy17/Emotion-based-music-recommendation-system)
 Built an AI-powered system that detects user emotions in real-time using computer vision and machine learning, recommending personalized music based on the detected mood.
 
-
 ## 🏆 Certifications
 - **Deloitte Australia - Data Analytics Job Simulation** (Forage, June 2026) — Completed practical tasks in data analysis and forensic technology, including building interactive Tableau dashboards with calculated fields and dashboard filter actions.
 
