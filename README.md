@@ -1,44 +1,30 @@
 # Hi, I'm Goli Krishna Prasad Reddy 👋
 
-🎓 B.Tech Graduate in Artificial Intelligence and Data Science (CGPA: 8.2/10)
-💼 Aspiring Data Analyst | Open to Work
-📍 Andhra Pradesh, India
-
-I turn raw data into clear, actionable business insights using Python, SQL, and Power BI. I enjoy working across the full data analysis pipeline — from cleaning and exploring data, to writing SQL queries, to building interactive dashboards that help people make better decisions.
-
----
+Final-year B.Tech student in Artificial Intelligence and Data Science, passionate about turning raw data into clear, actionable business insights using Python, SQL, and Power BI.
 
 ## 🛠️ Skills
-
 **Languages & Querying:** Python · SQL (MySQL)
 **Data Analysis:** Pandas · NumPy · EDA · Data Cleaning · Statistical Analysis
 **Visualization:** Power BI · Matplotlib · Seaborn
 **Machine Learning:** Scikit-learn · OpenCV · Computer Vision
 **Tools:** Microsoft Excel · Jupyter Notebook · Git · GitHub
 
----
-
 ## 📌 Featured Projects
 
 ### [Tech Layoffs Analysis](https://github.com/Prasadreddy17/tech-layoffs-analysis)
-Analyzed 4,500+ global tech layoff records using Python, SQL, and Power BI — identifying top affected companies, industries, and countries through an interactive dashboard with KPI cards and trend analysis.
+Analyzed 4,500+ global tech layoff records (2020-2026) using Python, SQL, and Power BI. Cleaned messy real-world data, wrote SQL queries to uncover trends by company, industry, and country, and built an interactive dashboard with KPI cards and a geographic map.
 
-### 🎵 [Emotion-Based Music Recommendation System](https://github.com/Prasadreddy17/emotion-music-recommendation)
+### [Emotion-Based Music Recommendation System](https://github.com/Prasadreddy17/Emotion-based-music-recommendation-system)
 Built an AI-powered system that detects user emotions in real-time using computer vision and machine learning, recommending personalized music based on the detected mood.
 
----
+### Face Recognition Based Attendance System
+An automated attendance system using facial recognition to mark attendance in real time, reducing manual tracking effort.
 
 ## 🏆 Certifications
+- **Deloitte Australia - Data Analytics Job Simulation** (Forage, June 2026) — Completed practical tasks in data analysis and forensic technology, including building interactive Tableau dashboards with calculated fields and dashboard filter actions.
 
-- **Deloitte Australia - Data Analytics Job Simulation** (Forage, June 2026)
-  Completed practical tasks in data analysis and forensic technology, including building interactive Tableau dashboards with calculated fields and dashboard filter actions.
-
----
-
-
-## 📬 Let's Connect
-
-📧 Email: [golikrishnaprasadreddy@gmail.com](mailto:golikrishnaprasadreddy@gmail.com)
-🔗 LinkedIn: [linkedin.com/in/krishna-prasad-reddy-goli](https://www.linkedin.com/in/krishna-prasad-reddy-goli)
+## 📫 Let's Connect
+- Email: [golikrishnaprasadreddy@gmail.com](mailto:golikrishnaprasadreddy@gmail.com)
+- LinkedIn: [linkedin.com/in/krishna-prasad-reddy-goli-57a070341](http://www.linkedin.com/in/krishna-prasad-reddy-goli-57a070341)
 
 ⭐ Currently seeking Data Analyst and Data Analyst Intern opportunities
