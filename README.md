@@ -20,8 +20,8 @@ I turn raw data into clear, actionable business insights using Python, SQL, and 
 
 ## 📌 Featured Projects
 
-### 📈 [Customer Sales Analysis](https://github.com/Prasadreddy17/customer-sales-analysis)
-Analyzed 10,000+ retail sales records using Python, SQL, and Power BI — identifying top revenue cities and key customer segments through an interactive dashboard with 8 KPIs.
+### [Tech Layoffs Analysis](https://github.com/Prasadreddy17/tech-layoffs-analysis)
+Analyzed 4,500+ global tech layoff records using Python, SQL, and Power BI — identifying top affected companies, industries, and countries through an interactive dashboard with KPI cards and trend analysis.
 
 ### 🎵 [Emotion-Based Music Recommendation System](https://github.com/Prasadreddy17/emotion-music-recommendation)
 Built an AI-powered system that detects user emotions in real-time using computer vision and machine learning, recommending personalized music based on the detected mood.
